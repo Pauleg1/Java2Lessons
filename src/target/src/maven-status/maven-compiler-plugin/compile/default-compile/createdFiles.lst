@@ -1,0 +1,12 @@
+model/Clouds.class
+model/City.class
+model/SituateWeather.class
+model/Sys.class
+Start.class
+model/Wind.class
+view/WeatherViewer.class
+model/WeatherResponse.class
+controller/WeatherController.class
+model/Main.class
+model/Coord.class
+model/Weather.class
